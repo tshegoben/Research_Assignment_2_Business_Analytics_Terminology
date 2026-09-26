@@ -1,0 +1,2 @@
+# Research_Assignment_2_Business_Analytics_Terminology
+research assignment demonstrating understanding of business analytics terminology
